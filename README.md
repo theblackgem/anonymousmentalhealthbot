@@ -5,4 +5,4 @@ install python3+ (latest version)
 
 download these pips 
 
-pip install discordpy
+pip install discord
